@@ -9,7 +9,7 @@ export default function StreamingLandingPage() {
         <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="text-2xl font-bold">
             <span className="text-white">Stream</span>
-            <span className="text-red-500 ml-2">UK VIP</span>
+            <span className="text-red-500 ml-2">MASTER</span>
           </div>
           <Button
             size="sm"

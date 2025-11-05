@@ -16,7 +16,7 @@ export default function StreamingLandingPage() {
             className="bg-red-600 hover:bg-red-700 text-white px-4 py-2 text-sm font-semibold rounded-md transition-all duration-300"
             asChild
           >
-            <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
               Join Telegram
             </a>
           </Button>
@@ -44,7 +44,7 @@ export default function StreamingLandingPage() {
             className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg font-semibold rounded-md transition-all duration-300 hover:scale-105"
             asChild
           >
-            <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
               <Play className="mr-2 h-5 w-5" />
               Start Watching Now on Telegram
             </a>
@@ -193,7 +193,7 @@ export default function StreamingLandingPage() {
                 className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 text-lg font-semibold rounded-md transition-all duration-300 hover:scale-105"
                 asChild
               >
-                <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                   Get Started Today
                 </a>
               </Button>
@@ -232,7 +232,7 @@ export default function StreamingLandingPage() {
                   className="border-red-600 text-red-600 hover:bg-red-600 hover:text-white bg-transparent"
                   asChild
                 >
-                  <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                     Learn More
                   </a>
                 </Button>
@@ -251,7 +251,7 @@ export default function StreamingLandingPage() {
                   className="border-red-600 text-red-600 hover:bg-red-600 hover:text-white bg-transparent"
                   asChild
                 >
-                  <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                     Explore
                   </a>
                 </Button>
@@ -270,7 +270,7 @@ export default function StreamingLandingPage() {
                   className="border-red-600 text-red-600 hover:bg-red-600 hover:text-white bg-transparent"
                   asChild
                 >
-                  <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                     Get Credits
                   </a>
                 </Button>
@@ -289,7 +289,7 @@ export default function StreamingLandingPage() {
                   className="border-red-600 text-red-600 hover:bg-red-600 hover:text-white bg-transparent"
                   asChild
                 >
-                  <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                  <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                     Customize
                   </a>
                 </Button>
@@ -368,7 +368,7 @@ export default function StreamingLandingPage() {
             className="bg-red-600 hover:bg-red-700 text-white px-12 py-6 text-xl font-semibold rounded-md transition-all duration-300 hover:scale-105"
             asChild
           >
-            <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+            <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
               Chat with Us on Telegram
             </a>
           </Button>
@@ -403,7 +403,7 @@ export default function StreamingLandingPage() {
                 className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 text-sm font-semibold rounded-md transition-all duration-300"
                 asChild
               >
-                <a href="https://t.me/iptvUK_VIP" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/ipiptvtv" target="_blank" rel="noopener noreferrer">
                   Join Our Telegram
                 </a>
               </Button>
